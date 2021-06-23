@@ -34,10 +34,10 @@ The analysis of the election show that:
   - Diana DeGette, who received 73.8% of the vote and 272,892 votes.
   
 ## Challenge Overview
-Using various Python functions, we were able to help Tom complete the required tasks to yield the results. By leveraging VS Code in conjunction with Python, we were able to analyze a large data set all on one screen. By pushing these changes to a text file and ultimately an online repsotory, election results are accessible to all.
+Using various Python functions, we were able to help Tom complete the required tasks to yield the results. By leveraging VS Code in conjunction with Python, we were able to analyze a large data set all on one screen. By pushing these changes to a text file and ultimately an online repository, election results are accessible to all.
 
 ## Challenge Summary
-With some slight modifications, Tom's code can be apllied to any election. The two paramaters to consider are number of candidates and/or number of counties. By adjusting these two factors, Tom's code can be used to run a similar election on a city or state level. By further expanding the voter range and filtering to two primary candidates, Tom's code could be applied to a national election.
+With some slight modifications, Tom's code can be applied to any election. The two paramaters to consider are number of candidates and/or number of counties. By adjusting these two factors, Tom's code can be used to run a similar election on a city or state level. By further expanding the voter range and filtering to two primary candidates, Tom's code could be applied to a national election.
 
 
 
